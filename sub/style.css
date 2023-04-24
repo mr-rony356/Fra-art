@@ -9125,7 +9125,17 @@ i.fa-solid.fa-bars {
 }
 @media screen and (max-width: 640px) {
   .aspect-ratio{
-    height: 670px !important;
+    height: 560px !important;
+    position: relative;
+  }
+  /* .aspect-ratio iframe {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 10;
+  } */
+  .heading-decor span{
+    font-size: 12px !important;
   }
   
 

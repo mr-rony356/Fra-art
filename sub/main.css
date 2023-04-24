@@ -19950,7 +19950,8 @@ screen and (max-width: 992px) and (max-height: 450px) and (orientation: landscap
 .banner-about .text-p {
     font-size: 14px;
     font-weight: 300;
-    line-height:2;
+    line-height:2.5;text-align: justify;
+    max-width: 80%;
 }
 
 .banner-about .button-style2 {
