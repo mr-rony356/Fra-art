@@ -9076,11 +9076,11 @@ div.product div.images .thumbnails a i {
   background-size: contain !important;
  }
  .banner-about {
-  min-height: 600px;
+  height: 700px;
 
 }
 .external-indent .banner-categories .item {
-  min-height: 600px !important;
+  height: 700px !important;
   color: rgb(255, 255, 255);
 }
 .banner-categories .owl-nav {
